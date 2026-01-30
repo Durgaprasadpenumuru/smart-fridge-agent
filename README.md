@@ -21,7 +21,7 @@ This project implements a **Multimodal Agentic Workflow**:
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/Durgaprasadpenumuru/smart-fridge-agent.git](https://github.com/Durgaprasadpenumuru/smart-fridge-agent.git)
+git clone https://github.com/Durgaprasadpenumuru/smart-fridge-agent.git
 cd smart-fridge-agent
 ```
 ### 2. Install dependencies
