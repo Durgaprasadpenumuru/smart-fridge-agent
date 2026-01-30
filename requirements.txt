@@ -1,0 +1,5 @@
+streamlit
+phidata
+groq
+python-dotenv
+Pillow
